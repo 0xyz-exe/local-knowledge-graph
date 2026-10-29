@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+env/
+venv/
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
+data/
+
+# Node
+node_modules/
+dist/
+.vite/
+npm-debug.log*
+
+# Playwright
+test-results/
+playwright-report/
+
+# OS
+.DS_Store
+Thumbs.db
